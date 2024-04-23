@@ -1,16 +1,28 @@
-### Hi there 👋
+<div>
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
+<br/>
 
-<!--
-**johannawoo/johannawoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- **Name:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Located:**
+
+- **Studying:** 
+
+- **Learning:** 
+
+- **Good with:** 
+
+- **Efficient with:** 
+  
+- **Languages:** Norwegian, English, Swedish, Danish
+
+<br/>
+<br/>
+
+
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://www.yourdictionary.com/work-in-progress"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://www.instagram.com/johannaw00/"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://www.threads.net/@johannaw00"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/Johannaw00"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/johannalm/"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+</p>
+<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
+</div>
