@@ -9,11 +9,11 @@
 
 - **Studying:** Self studying rn
 
-- **Learning:** Python | C++ | JavaScript |
+- **Learning:** Python | C++ | JavaScript | CSS | HTML
 
-- **Good with:** 
+- **Good with:** Nothing rn
 
-- **Efficient with:** 
+- **Efficient with:** Adobe softwares | CAD softwares 
   
 - **Languages:** Norwegian, English, Swedish, Danish
 
