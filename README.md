@@ -11,7 +11,7 @@
 
 - **Studying:** Self studying rn
 
-- **Learning:** Python | C++ | JavaScript | CSS | HTML
+- **Learning:** Python | C++ | JS | CSS | HTML
 
 - **Good with:** Nothing rn
 
