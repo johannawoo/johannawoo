@@ -5,9 +5,9 @@
 
 
   
-- **Name:** Johanna | Milky Matcha | Matcha Bun
+- **Name:** Johanna | Jo | Iced Matcha
 
-- **Located:** Australia | Norway
+- **Located:** Copenhagen | Norway
 
 - **Studying:** Self studying rn
 
